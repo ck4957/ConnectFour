@@ -1,6 +1,6 @@
 # ConnectFour Game
 
-The shape of the board is a bit unusual:
+The shape of the board is a bit unusual( Its a V -Shapped board):
      ooooooooooooooooooooooooo
       ooooooooooooooooooooooo
        ooooooooooooooooooooo
